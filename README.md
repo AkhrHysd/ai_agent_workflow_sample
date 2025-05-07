@@ -1,0 +1,2 @@
+# ai_agent_workflow_sample
+Cursorを使用したAIエージェント前提のワークフロールールを作ってみた
